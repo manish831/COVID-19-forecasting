@@ -147,7 +147,7 @@ Every day I will update the table with the number of cases actually verified and
 | 16-05  | -33 | -113 |
 | 17-05  | -13 | -112 |
 | 18-05  | -13 | -110 |
-| 19-05  | -33 | -108 |
+| 19-05  | -33 | -107 |
 | 20-05  | Update at 18.00 | -107 |
 
 
